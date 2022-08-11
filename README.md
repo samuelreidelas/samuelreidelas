@@ -1,4 +1,12 @@
-### Hi there 👋
+###Samuel 1A
+Meu nome é samuel, tenho 15 anos de idade
+#Gosto de jogar bola
+#Gosto de jogar video game
+#Gosto de cozinhar
+
+
+
+
 
 <!--
 **samuelreidelas/samuelreidelas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
